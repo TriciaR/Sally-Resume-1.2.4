@@ -1,10 +1,15 @@
 
-h1, h2, a {
-  color: white;
+header {
+  background-color: teal;}
+
+h1{
+  color: brown;
   text-align:center
 }
-header {
-  background-color: black;}
+h2, a{
+  color: brown;
+  text-align:center
+}
 
 h3 {
   font-size:25px; 
@@ -16,7 +21,7 @@ h4{
   font-style: bold;
 }
 
-h4.hangingindent1 {
+.hangingindent1{
       padding-left: 20px;
       text-indent:20px;
   }
@@ -26,11 +31,11 @@ h5{
   font-style: bold;
 }
 
-h5.hangingindent2 {
+hangingindent2{
       padding-left: 30px;
       text-indent:30px;
   }
 
-ul{
-  font-size:15px; 
+address{
+
 }
