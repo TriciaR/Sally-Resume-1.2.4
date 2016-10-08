@@ -1,0 +1,36 @@
+
+h1, h2, a {
+  color: white;
+  text-align:center
+}
+header {
+  background-color: black;}
+
+h3 {
+  font-size:25px; 
+  font-style: bold;
+}
+
+h4{
+  font-size:20px; 
+  font-style: bold;
+}
+
+h4.hangingindent1 {
+      padding-left: 20px;
+      text-indent:20px;
+  }
+
+h5{
+  font-size:18px; 
+  font-style: bold;
+}
+
+h5.hangingindent2 {
+      padding-left: 30px;
+      text-indent:30px;
+  }
+
+ul{
+  font-size:15px; 
+}
